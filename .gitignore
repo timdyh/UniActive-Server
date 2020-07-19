@@ -1,0 +1,7 @@
+*.iml
+/out
+/.idea
+/META-INF
+src/res/META-INF
+/build
+
